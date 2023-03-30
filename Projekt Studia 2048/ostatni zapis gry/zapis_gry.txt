@@ -1,0 +1,8 @@
+zapis Gry Gracza: 
+Zdobyte Punkty:   16
+Ilosc ruchow:     4
+Zapisana Plansza
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+4 4 0 8 
